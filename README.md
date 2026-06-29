@@ -1,5 +1,13 @@
 # Summer School Agents
 
+Ссылки: 
+- [гугл презентация с ключами](https://docs.google.com/spreadsheets/d/14VoIAJQhzxQ-qVt78CJllKebFBGwWIw4fcEJsYyJ44o/edit?gid=1520546070#gid=1520546070)
+- 10-11, 1 семинар - [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sblenlkj/summer-agent-school-seminars-1-2/blob/main/notebooks/sber_summer_school_seminar_1_06_29.ipynb)
+- 10-11, 2 семинар - [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sblenlkj/summer-agent-school-seminars-1-2/blob/main/notebooks/sber_summer_school_seminar_2_06_30.ipynb)
+- 8-9, 1 семинар - [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sblenlkj/summer-agent-school-seminars-1-2/blob/main/notebooks/seminar_1_8_9.ipynb)
+- 8-9, 2 семинар - [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sblenlkj/summer-agent-school-seminars-1-2/blob/main/notebooks/seminar_2_8_9.ipynb)
+
+
 Материалы для летней школы по разработке LLM-агентов для школьников.
 
 В репозитории есть два набора тетрадок:
