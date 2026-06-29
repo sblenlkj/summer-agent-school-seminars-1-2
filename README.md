@@ -7,7 +7,6 @@
 - 8-9, 1 семинар - [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sblenlkj/summer-agent-school-seminars-1-2/blob/main/notebooks/seminar_1_8_9.ipynb)
 - 8-9, 2 семинар - [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sblenlkj/summer-agent-school-seminars-1-2/blob/main/notebooks/seminar_2_8_9.ipynb)
 
-
 Материалы для летней школы по разработке LLM-агентов для школьников.
 
 В репозитории есть два набора тетрадок:
@@ -131,3 +130,6 @@ scripts/     - маленькие демонстрационные скрипт�
 - маленькие runnable-примеры;
 - постепенное усложнение;
 - минимум теории без кода.
+
+- [вики фкн](https://hsepolls.ru/Wiki_ФКН)
+- [яндекс папка](https://disk.yandex.ru/d/mzXlT0U3MzEZkQ)
