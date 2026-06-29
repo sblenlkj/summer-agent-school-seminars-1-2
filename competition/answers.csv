@@ -1,0 +1,110 @@
+question_id,answer
+gcse-val-001,"Output: False  
+Data Type: Boolean"
+gcse-val-002,"To calculate the minimum file size:
+
+1. Find total number of pixels = width × height = 28 × 20 = 560.
+2. Multiply by color depth to get total bits = 560 × 24 = 13440 bits.
+3. Convert bits to bytes by dividing by 8 = 13440 ÷ 8 = 1680 bytes.
+
+Final answer: **1680 bytes**."
+gcse-val-003,"The IP address 10.120.61.21 converted into its 32-bit binary form is:
+
+00001010.01111000.00111101.00010101"
+gcse-val-004,True
+gcse-val-005,"The practical consequence is that a repeat-until loop will always execute its body at least once because it checks the condition after execution, whereas a while loop may never run if its condition is initially false."
+gcse-val-006,"1. Intentions: A penetration tester's goal is to identify vulnerabilities and improve security with permission from the organization; a malicious hacker's intent is to exploit weaknesses for personal gain or harm.
+
+2. Legal status: Penetration testing is conducted legally under contractual agreements; malicious hacking violates laws and ethical standards."
+gcse-val-007,Dijkstra’s algorithm finds the shortest route by iteratively selecting the unvisited vertex with the lowest distance from the starting point and updating distances to its neighbors if a shorter path is found through it. It continues until all vertices are visited or the target vertex is reached.
+gcse-val-008,"The loop outputs the sequence of values: 1, 2, 3, 4, 5."
+gcse-val-009,"A linked list is a linear data structure where each element points to the next one using pointers or references. Unlike arrays, elements are not stored contiguously; they can be scattered throughout memory. Linked lists allow dynamic allocation of nodes as needed but require extra space for storing reference fields. Arrays have fixed sizes and store elements sequentially in contiguous blocks of memory."
+gcse-val-010,"A regular expression (regex or regexp) is a sequence of characters that defines a search pattern used for matching strings.
+
+To match an email address using regex:
+- Start with `^[a-zA-Z0-9._%+-]+` which matches one or more alphanumeric characters, dots, underscores, percent signs, plus signs, or hyphens at the beginning.
+- Followed by `@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$`, where:
+  - `@`: Matches the @ symbol literally.
+  - `[a-zA-Z0-9.-]+`: Matches one or more letters, digits, dots, or hyphens before the domain name.
+  - `\.`: Escapes the dot character so it’s matched literally.
+  - `[a-zA-Z]{2,}`: Matches two or more alphabetic characters representing the top-level domain extension like .com, .org, etc.
+
+Example regex for email validation: 
+```
+^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
+```"
+gcse-val-011,"The trace of the given nested loops will produce the following output:
+
+```
+1
+2
+3
+1
+2
+3
+```"
+gcse-val-012,"A compiler translates an entire program into machine code before it runs, producing an executable file that can be run independently without needing the original source code or the compiler itself.
+
+An interpreter reads and executes the program line by line during runtime, requiring access to the source code and the interpreter every time the program is executed."
+gcse-val-013,"The expression (NOT A) AND (NOT B) in operator notation is $\overline{A} \cdot \overline{B}$.
+
+The expression (A AND B) OR (NOT C) in operator notation is $A\cdot B+\overline{C}$."
+gcse-val-014,"```sql
+DELETE FROM Country WHERE Population > 15000000;
+```"
+gcse-val-015,"To calculate the number of bytes required:
+
+- Sampling rate = 8 kHz (8000 samples/second)
+- Each sample uses 8 bits
+- One byte equals 8 bits
+
+First, find total bits per second:
+$8000 \text{ samples/sec} × 8 \text{ bits/sample} = 64000 \text{ bits/sec}$
+
+Convert bits to bytes:
+$64000 \text{ bits/sec} ÷ 8 = 8000 \text{ bytes/sec}$
+
+For one minute (60 seconds):
+$8000 \text{ bytes/sec} × 60 \text{ sec} = 480000 \text{ bytes}$
+
+Answer: $480000$ bytes"
+gcse-val-016,This topic is not covered in the textbook
+gcse-val-017,"Using a named constant like 'pi' instead of the literal value makes it easier to maintain and update the code if needed. If you want to change the precision or value of pi later on, you only need to modify it once where it's defined rather than searching through all instances of its use within the program."
+gcse-val-018,"The call `D(12, 0)` will never return a result because when `b` is zero, subtracting it from `a` has no effect (`a = a - 0`), so the condition `a > 0` remains true indefinitely, causing an infinite loop."
+gcse-val-019,StingRay devices represent active geolocation data collection because they actively send signals to mobile phones to determine their location.
+gcse-val-020,"UDP is preferred for online voice and video calls because it minimizes latency by avoiding connection establishment, acknowledgments, and retransmissions of lost packets. This makes communication faster and more suitable for real-time interactions where delays are unacceptable. Lost data may result in minor glitches but doesn't significantly impact overall call quality."
+gcse-val-021,Changing the default password enhances security by preventing unauthorized access from hackers who may know common factory-set passwords.
+gcse-val-022,"In assembly languages, each instruction typically maps directly to one or more specific machine code instructions with minimal abstraction. In contrast, statements in high-level languages may require multiple steps of translation involving compilers or interpreters that convert them into many low-level operations before being executed by hardware."
+gcse-val-023,"Decomposition refers to breaking down complex problems into smaller, more manageable parts or sub-problems. When decomposition is used to plan a solution, it is often referred to as **top-down design** or stepwise refinement."
+gcse-val-024,"The decimal equivalent of the binary number 11001 is calculated as follows:
+
+(1 × 16) + (1 × 8) + (0 × 4) + (0 × 2) + (1 × 1) = 16 + 8 + 0 + 0 + 1 = 25
+
+So, the answer is 25."
+gcse-val-025,"The middle position would be calculated as follows:
+
+middle position = (low + high) div 2  
+= (6 + 9) div 2  
+= 15 div 2  
+= 7
+
+So, position 7 is examined as the middle."
+gcse-val-026,"In a traditional star network topology, each device connects directly to a central hub or switch, which isolates communication between nodes. This makes it harder to eavesdrop because data packets are only sent along specific paths.
+
+In contrast, an old coaxial-cabled bus topology uses a single cable where all devices share the same medium. Any signal transmitted can be received by every connected device, making it easier to intercept communications from other nodes."
+gcse-val-027,This is a logic error. A boundary value analysis test with the input of exactly 50 would reveal it.
+gcse-val-028,"Cohesion refers to how closely related the elements within a module are; high cohesion means that all parts of the module work together towards one purpose.
+
+Coupling measures how interconnected different modules or components are with each other; low coupling indicates minimal dependencies between them.
+
+The goal for cohesion is to maximize it by grouping similar tasks into single modules. The aim for coupling is to minimize it so that changes in one part do not affect others significantly."
+gcse-val-029,"In a hash table, a **hash function** converts keys into array indices where values are stored. When two different keys produce the same index (a collision), common methods to resolve this include:
+
+- **Separate chaining**: Each slot holds a linked list of items that hashed to the same location.
+- **Open addressing**: If an index is occupied, another available spot is found using techniques like linear probing or quadratic probing.
+
+The textbook emphasizes that choosing an appropriate hash function minimizes collisions but doesn't eliminate them entirely."
+gcse-val-030,"Pharming attacks redirect victims to fraudulent websites by tampering with DNS settings or modifying hosts files:
+
+1. **DNS poisoning**: Hackers alter DNS server records so that legitimate domain names point to malicious IP addresses.
+2. **Hosts file modification**: Attackers change local system's hosts file to map genuine URLs to rogue servers directly on the user's device."

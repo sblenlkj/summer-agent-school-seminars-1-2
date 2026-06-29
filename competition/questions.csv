@@ -1,0 +1,31 @@
+question_id,question
+gcse-val-001,"The pseudo-code FlagIsTrue = 5 > 6 followed by OUTPUT FlagIsTrue is executed. What is output, and what data type is the result?"
+gcse-val-002,A bitmap image is 28 pixels wide by 20 pixels high with a colour depth of 24 bits. Calculate its minimum file size in bytes.
+gcse-val-003,"An IPv4 host has NetID 10.120.61 and HostID 21, written as 10.120.61.21. Convert this address to its 32-bit binary form."
+gcse-val-004,"Boolean variables x, y and z hold x = False, y = False, z = True. Given that AND has higher precedence than OR, evaluate the expression x AND y OR z and give the result."
+gcse-val-005,"A repeat-until loop executes its body and then tests its condition, while a while loop tests its condition before the body. What is the practical consequence of this for the minimum number of times each loop body runs?"
+gcse-val-006,A penetration tester and a malicious hacker use the same tools and techniques to break into a system. What are the two key differences between them?
+gcse-val-007,How does Dijkstra's shortest path algorithm find the shortest route in a weighted graph?
+gcse-val-008,"Consider a loop that initialises a counter i to 0, then repeats these steps: increase i by 1, output i, and check 'Is i = 5?' If it is not 5 the loop repeats, otherwise it stops. What sequence of values does this loop output?"
+gcse-val-009,What is a linked list and how does it differ from an array?
+gcse-val-010,What is a regular expression and how would you use one to match an email address?
+gcse-val-011,Trace this nested loop and state the full output: FOR i 1 TO 2 / FOR j 1 TO 3 / OUTPUT j / ENDFOR / ENDFOR
+gcse-val-012,"An interpreter and a compiler both process high-level language programs, yet only one of them produces something that can later run on its own. State the key difference in what each one does and what is needed at execution time."
+gcse-val-013,"In Boolean expression notation the operators are + for OR, the dot for AND, and an overbar for NOT. Write the expression (NOT A) AND (NOT B) in operator notation, and the expression (A AND B) OR (NOT C) in operator notation."
+gcse-val-014,"A table Country has the structure Country(Name, Capital, Population, Area). Write an SQL statement that deletes every row where the population is greater than 15000000."
+gcse-val-015,Each sample of speech on a digital telephone line is encoded in 8 bits at a sampling rate of 8 kHz (8000 samples per second). How many bytes are needed to store one minute of this sampled speech?
+gcse-val-016,What is a quantum computer and how does a qubit differ from a classical bit?
+gcse-val-017,In Pascal a constant is defined with Const Pi = 3.142; while a variable is declared with Var x : Integer;. Give one reason why replacing the literal 3.141592654 used in several places by a named constant pi improves a program.
+gcse-val-018,"Using the subroutine D(a, b) which sets c = 0 then repeatedly does a = a - b and c = c + 1 while a > 0, explain why the call D(12, 0) will never return a result."
+gcse-val-019,"Geolocation data collection is grouped into three types by how the data is gathered. Which type does a StingRay device represent, and what makes it that type?"
+gcse-val-020,"Online voice and video calls typically use UDP rather than TCP. Given that UDP does not establish connections, does not acknowledge or resend lost packets, and adds no sequence numbers, explain why UDP is the better choice for these applications."
+gcse-val-021,Why is it important to change the default password on a new device such as a router or IoT device before going live?
+gcse-val-022,How does the mapping from source code to machine code differ between an assembly language instruction and a high-level language statement?
+gcse-val-023,"In the context of designing algorithms, what is meant by decomposition, and what is it called when decomposition is used to plan a solution?"
+gcse-val-024,"In the binary system, the numeral 11001 is interpreted using place values 16, 8, 4, 2, 1. What is its decimal equivalent?"
+gcse-val-025,"In a binary search the middle position of a search interval is found with the rule middle position = (low + high) div 2, using integer (whole-number) division. For a search interval running from position 6 to position 9 inclusive, which position is examined as the middle?"
+gcse-val-026,"Compare a traditional star network topology with the old coaxial-cabled bus topology in terms of how easy it is to eavesdrop on another node's traffic, and explain why."
+gcse-val-027,"A program converting a raw mark to a grade uses IF rawMark > 50 THEN grade = 'PASS' ELSE grade = 'FAIL'. The intended rule is that 50 should PASS. What kind of error is this, and which single category of test data would reveal it?"
+gcse-val-028,"Compare cohesion and coupling in structured design, and state what the goal is for each."
+gcse-val-029,"How does a hash table use a hash function, and how does it handle collisions?"
+gcse-val-030,How does pharming manage to send a victim to a fake website even when the victim types the correct web address? Describe the two ways hackers can subvert the process.
